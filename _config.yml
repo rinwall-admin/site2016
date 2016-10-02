@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://rinwall.com/photorama/gallery/"  
-  - JOURNAL: "http://rinwall.com/photorama/journal/"
-  - ABOUT: "http://rinwall.com/photorama/about/"
+  - GALLERY: "http://http://rinwall-admin.github.io/site2016/photorama/gallery/"  
+  - JOURNAL: "http://http://rinwall-admin.github.io/site2016/photorama/journal/"
+  - ABOUT: "http://http://rinwall-admin.github.io/site2016/photorama/about/"
 
 # All translation keys
 translations:
