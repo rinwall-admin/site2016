@@ -1,8 +1,8 @@
 # Site settings
-title: PHOTORAMA
+title: Rinwall Oy
 email: ""
 description: "Photo Journal"
-url: "http://sunbliss.github.io"
+url: "http://rinwall.com"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "http://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "http://sunbliss.github.io/photorama/about/"
+  - GALLERY: "http://rinwall.com/photorama/gallery/"  
+  - JOURNAL: "http://rinwall.com/photorama/journal/"
+  - ABOUT: "http://rinwall.com/photorama/about/"
 
 # All translation keys
 translations:
